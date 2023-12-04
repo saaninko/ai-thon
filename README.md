@@ -1,1 +1,1 @@
-# ai-thon
+# Household energy profiling
